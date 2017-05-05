@@ -46,6 +46,7 @@
 		D98923FF1EBB09ED00BC98CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D98924011EBB09ED00BC98CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9A3EBAB1EBC7D1200AF4D40 /* NSDataExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NSDataExtension.swift; sourceTree = "<group>"; };
+		D9A3EBAD1EBC8BA300AF4D40 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D9D60A011EBB7ECE0045F347 /* FileDownloadManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileDownloadManager.swift; sourceTree = "<group>"; };
 		D9D60A021EBB7ECE0045F347 /* ImageDownloader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageDownloader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -150,6 +151,7 @@
 		D90E2B1B1EBB2C0C003E6007 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D9A3EBAD1EBC8BA300AF4D40 /* README.md */,
 				D90E2B1C1EBB2C27003E6007 /* Localizable.strings */,
 			);
 			path = Resources;
