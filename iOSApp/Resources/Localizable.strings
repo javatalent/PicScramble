@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  iOSApp
+
+  Created by kushal  on 04/05/17.
+  Copyright © 2017 kushal. All rights reserved.
+*/
+
+"InternetOffline" = "Your Internet connection is looking offline.";
+"InvalidResponse" = "Something went wrong. Please tap start new game to retry.";
